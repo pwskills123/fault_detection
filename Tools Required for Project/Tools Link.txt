@@ -1,0 +1,14 @@
+1. Install Python
+
+https://www.python.org/downloads/
+
+2. Install Anaconda Navigator
+
+https://www.anaconda.com/download
+
+3. Install Visual Studio Code
+
+https://code.visualstudio.com/download
+
+
+
